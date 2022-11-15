@@ -8,6 +8,12 @@
 -  Constantly looking to improve my knowledge and skills
 - 🇧🇷 Lives in Florianópolis, Brazil <br> 
 
+<div align="center">
+  <a href="https://github.com/thordevsecops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thordevsecops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thordevsecops&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### My social networks 🌎
 
 <div style="display: inline_block"><br>
@@ -21,7 +27,3 @@
   <img align="right" alt="Linux-Intruder" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1Mv1tqu2IoPGf6YH2qJfLhQmb1eiOYrW-/view?usp=sharing">
 </div>
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thordevsecops&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thordevsecops&layout=compact&langs_count=6)](https://github.com/thordevsecops/github-readme-statsCompact&theme=radical"/>
-</div>
