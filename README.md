@@ -24,6 +24,7 @@
     <img align="center" alt="Thor-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919852.png">
     <img align="center" alt="Thor-Rust" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png">
     <img align="center" alt="Thor-ShellScript" height="30" width="40" src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png">
+      <img align="center" alt="Thor-Spring" height="30" width="40" src="https://www.clipartmax.com/png/middle/241-2411261_categories-spring-tool-suite-icon.png">
   <img align="right" alt="Linux-Intruder" height="150" style="border-radius:50px;" src="https://www.linkpicture.com/q/Logo_72.png">
 </div>
 
