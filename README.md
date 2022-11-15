@@ -16,13 +16,13 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thor-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3291/3291697.png">
-  <img align="center" alt="Thor-Cplusplus" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
-  <img align="center" alt="Thor-CSharp" height="30" width="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
-  <img align="center" alt="Thor-Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/1024px-Clojure_logo.svg.png">
-  <img align="center" alt="Thor-Docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
-  <img align="center" alt="Thor-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919852.png">
-  <img align="center" alt="Thor-ShellScript" height="30" width="40" src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png">
+    <img align="center" alt="Thor-Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/1024px-Clojure_logo.svg.png">
+    <img align="center" alt="Thor-Cplusplus" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
+    <img align="center" alt="Thor-CSharp" height="30" width="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png">
+    <img align="center" alt="Thor-Docker" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+    <img align="center" alt="Thor-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3291/3291697.png">
+    <img align="center" alt="Thor-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919852.png">
+    <img align="center" alt="Thor-ShellScript" height="30" width="40" src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png">
   <img align="right" alt="Linux-Intruder" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1Mv1tqu2IoPGf6YH2qJfLhQmb1eiOYrW-/view?usp=sharing">
 </div>
 
@@ -30,7 +30,7 @@
 
 <div>
     <a href="https://instagram.com/thorkhaotic" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="www.linkedin.com/in/thorrachaus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://linkedin.com/in/thorrachaus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:thordevsecops@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   	<a href="https://www.twitch.tv/linuxintruder" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCdNHFLRLDsFQw7ZOXz6gk9w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
