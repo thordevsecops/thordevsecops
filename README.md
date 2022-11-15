@@ -23,7 +23,7 @@
     <img align="center" alt="Thor-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/3291/3291697.png">
     <img align="center" alt="Thor-Python" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919852.png">
     <img align="center" alt="Thor-ShellScript" height="30" width="40" src="https://e7.pngegg.com/pngimages/330/276/png-clipart-bash-shell-script-bourne-shell-scripting-language-unix-shell-shell-rectangle-logo.png">
-  <img align="right" alt="Linux-Intruder" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1Mv1tqu2IoPGf6YH2qJfLhQmb1eiOYrW-/view?usp=sharing">
+  <img align="right" alt="Linux-Intruder" height="150" style="border-radius:50px;" src="https://www.linkpicture.com/q/Logo_72.png">
 </div>
 
 ### My social networks 🌎
