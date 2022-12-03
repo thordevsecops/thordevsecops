@@ -2,7 +2,7 @@
 
 - 🎥 I am the creator of the Linux Intruder channel
 - ☠️ Passionate about cybersecurity and offensive hacking techniques
-- 💻 Currently I'm studying implementations and design about Java and C++
+- 💻 Currently I'm studying implementations and development about NodeJS and Python
 - 🐧 Assuming Linux user, preferring distributions based on Arch Linux and derivates
 - ✒️ Oldschool tattoo lover
 -  Constantly looking to improve my knowledge and skills
